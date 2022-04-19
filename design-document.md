@@ -42,6 +42,7 @@ An LED can be enlightened by changing the value of its corresponding pins for th
 ### Mathematics
 
 The goal can still be achieved using the linear congruential generator (LCG); the equation is as below [4]
+
 <img src="https://latex.codecogs.com/svg.image?value&space;=&space;(a&space;\cdot&space;seed&space;&plus;&space;c)&space;\mod&space;m" title="value = (a \cdot seed + c) \mod m" />
 
 <img src="https://latex.codecogs.com/svg.image?\&space;a&space;=&space;75,&space;c&space;=&space;74,&space;m&space;=&space;2^{16}&space;&plus;&space;1" title="\ a = 75, c = 74, m = 2^{16} + 1" />
