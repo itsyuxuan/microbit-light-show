@@ -80,11 +80,6 @@ Our program imitates classic movies to implement an ever-changing light show wit
 - We use highly modularised functions with high cohesion and low coupling; hence, they are easy to modify and understand.
 - The LED status matrix and music frequency-duration table data are all stored in the `.data` section on memory, which saves lots of register usage.
 
-### Forfeits
-
-- When playing music notes in **Pt.1**, LED lights are cut off. This can be improved by merging the loops for both light and sound.
-- Although the falling strips in **Pt.2** are generative, the byte beat is always in the same loop. The sound can be randomised too.
-
 ## References
 
 [1]"Week 4: blinky", *Computer Organisation and Program Execution*, 2022. [Online]. Available: https://comp.anu.edu.au/courses/comp2300/labs/04-blinky/. [Accessed: 03- Apr- 2022].
