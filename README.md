@@ -1,4 +1,4 @@
-# microbit-lightshow
+# microbit-light-show
 
 An engaging musical light show on the BBC micro:bit v2 (ANU COMP2300 assignment).
 
