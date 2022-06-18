@@ -1,8 +1,8 @@
+> For information about how to run the program, please visit the [COMP2300 course website](https://comp.anu.edu.au/courses/comp2300/).
+
 # microbit-light-show
 
 An engaging musical light show on the BBC micro:bit v2 (ANU COMP2300 assignment).
-
-> For information about how to run the program, please visit the [COMP2300 course website](https://comp.anu.edu.au/courses/comp2300/).
 
 ## Design
 
